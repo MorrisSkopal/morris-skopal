@@ -1,0 +1,25 @@
+@charset "utf-8" ;
+/* CSS Document */
+
+
+h1, h2 ,h3 {
+	color: gray ;
+	background-color: lightgray ;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	
+}
+body {
+	
+	background-image:  url("file:///C:/Users/morris/Desktop/MORRIS-KOLOKVIJ/pozdina-morris.jpg");
+	
+}
+
+a {
+	color: black;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia "serif";
+	
+}
+img {
+	height: 400px;
+	
+}
